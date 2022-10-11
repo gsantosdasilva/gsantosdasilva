@@ -10,3 +10,5 @@ Você pode me encontrar em:
 [Linkedin](https://www.linkedin.com/in/guilherme-santos-da-silva-108652209/)
 
 :love_you_gesture:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsantosdasilva&theme=nord_dark) 
