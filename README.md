@@ -1,4 +1,4 @@
-Olá, eu sou o Guilherme
+Hi, i am Guilherme
 
 Acquiring continuous knowledge in the development area, in order to keep myself informed about market technologies and I appreciate the dedication involving commitments and responsibilities.
 At the moment I'm graduating at PUCRS and focused specifically on some technologies, like C# and React, every day I try to improve them.
