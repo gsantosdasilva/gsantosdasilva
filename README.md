@@ -1,14 +1,13 @@
 Hi, i am Guilherme
 
-Acquiring continuous knowledge in the development area, in order to keep myself informed about market technologies and I appreciate the dedication involving commitments and responsibilities.
-At the moment I'm graduating at PUCRS and focused specifically on some technologies, like C# and TypeScript, every day I try to improve them.
+Adquirindo conhecimento contínuo na área da tecnologia, com o objetivo de me manter informado sobre as atualizações do mercado, prezo pela dedicação máxima envolvendo projetos, compromissos e responsabilidades. Neste momento estou focado específicamente em algumas tecnologias, como C# e TypeScript, todos os dias busco o aperfeiçoamento nas mesmas.
 
-Working at [Tech6 Group](https://tech6.com.br/).
+Trabalhando na [Tech6 Group](https://tech6.com.br/).
 
-You find me on:
+Você pode me encontrar em:
 
 [Linkedin](https://www.linkedin.com/in/guilherme-santos-da-silva-108652209/)
 
-Thanks in advance! :love_you_gesture:
+Até logo! :love_you_gesture:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsantosdasilva&theme=nord_dark) 
