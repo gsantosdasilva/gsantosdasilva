@@ -1,4 +1,4 @@
-Hi, i am Guilherme
+Olá, meu nome é Guilherme
 
 Adquirindo conhecimento contínuo na área da tecnologia, com o objetivo de me manter informado sobre as atualizações do mercado, prezo pela dedicação máxima envolvendo projetos, compromissos e responsabilidades. Neste momento estou focado específicamente em algumas tecnologias, como C# e TypeScript, todos os dias busco o aperfeiçoamento nas mesmas.
 
