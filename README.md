@@ -1,5 +1,6 @@
 
 
+
 ## Knowledge
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,3 +57,35 @@ Let's Make Connections:
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsantosdasilva)
+
+
+---
+
+## Academic Background
+
+**Bachelor's Degree in Software Engineering** - In progress - 5th Semester  
+Pontifical Catholic University of Rio Grande do Sul - PUCRS
+
+**English Language Course (6 months)** - Finished - Mar/2024 - Aug/2024  
+International Language Academy of Canada - ILAC
+
+---
+
+## Experience
+#### **Full Stack Developer**  
+#### *Oct/2022 – Sep/2023* - **Tech6 Group**
+
+I have valuable experience as a Full Stack at Tech6 Group. In this role, I honed my skills in troubleshooting and resolving software issues to ensure optimal functionality. Adept at performing comprehensive software testing to identify and fix bugs, ensuring the delivery of high-quality products. Furthermore, actively contributing to the development and implementation of new features, aiming to improve the product's capabilities and stay ahead of market demands. My experience lies in utilizing a diverse set of tools including HTML, CSS, JavaScript, TypeScript, C#, .NET and SQL for developing and maintaining efficient projects.
+
+Skills: DevOps · TypeScript · HTML · SQL Databases · Application Programming Interfaces (API) · C# · JavaScript · JSON · Programming · Selenium · Git · .NET Framework · Azure DevOps · CSS · REST API · Software Development · Programming Languages · Information Technology · Teamwork · Node.js · SQL · Solution Development · GitFlow · MySQL
+
+-------
+
+#### **Robotic Process Automation Developer**  
+#### *Dec/2021 – Oct/2022* - **Tech6 Group**
+
+Experienced in automating processes to boost efficiency, productivity, and decision-making. Proficient in using Power Platform and Azure to develop automation solutions. Passionate about driving digital transformation and optimizing business processes, dedicated to delivering effective automation solutions for organizations.
+
+Skills: Connectors · HTML · Windows Azure · CSS · Microsoft Power Platform · Microsoft PowerApps · Azure DevOps Server
+
+---
