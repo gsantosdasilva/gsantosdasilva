@@ -21,7 +21,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## What do I offer?
+## What do I offer? 
 
 - Advanced English (spoken and written) - Portuguese (fluent)
 - SQL and NoSQL databases
@@ -57,6 +57,10 @@ Let's Make Connections:
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsantosdasilva)
+
+## Download Resume
+
+[![Download Resume](https://img.shields.io/badge/Download_Resume-007D4?style=for-the-badge&logo=pdf&logoColor=white)](https://github.com/gsantosdasilva/gsantosdasilva/raw/main/GuilhermeS.Resume.pdf)
 
 
 ---
