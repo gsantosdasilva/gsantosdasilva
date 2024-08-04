@@ -79,8 +79,6 @@ I have valuable experience as a Full Stack at Tech6 Group. In this role, I honed
 
 Skills: DevOps · TypeScript · HTML · SQL Databases · Application Programming Interfaces (API) · C# · JavaScript · JSON · Programming · Selenium · Git · .NET Framework · Azure DevOps · CSS · REST API · Software Development · Programming Languages · Information Technology · Teamwork · Node.js · SQL · Solution Development · GitFlow · MySQL
 
--------
-
 #### **Robotic Process Automation Developer**  
 #### *Dec/2021 – Oct/2022* - **Tech6 Group**
 
