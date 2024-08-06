@@ -36,7 +36,7 @@
 
 ## What do I offer? 
 
-- Advanced English (spoken and written) - Portuguese (fluent)
+- Advanced English (spoken and written)
 - SQL and NoSQL databases
 - Microservices and the cloud
 - Knowledge of algorithms
@@ -48,11 +48,12 @@
 - Experience in automated testing, CI/CD pipelines
 - Version control
 - Unit tests, integration tests and code coverage
-- C#, C++, Node JS, TypeScript, Java, Angular
+- C#, C++, Node JS, TypeScript, Java, Angular and others...
 - Spring Boot, Railway
 - API, REST, JSON
 - Scrum, Kanban
 - Jira, Miro, Figma, Azure DevOps, PowerApps, Power Automate, AWS, Git
+- Shopify, Liquid
 - Agile Methodology
 
 I am open to opportunities that allow me to combine my academic knowledge and practical experience to contribute to new projects.
@@ -99,7 +100,7 @@ Skills: DevOps · TypeScript · HTML · SQL Databases · Application Programming
 #### **Robotic Process Automation Developer**  
 #### *Dec/2021 – Oct/2022* - **Tech6 Group**
 
-Experienced in automating processes to boost efficiency, productivity, and decision-making. Proficient in using Power Platform and Azure to develop automation solutions. Passionate about driving digital transformation and optimizing business processes, dedicated to delivering effective automation solutions for organizations.
+Experienced in process automation to increase efficiency, productivity, and decision-making. Skilled in utilizing HTML, CSS, Power Platform, and Azure to develop automation solutions. Passionate about driving digital transformation and optimizing business processes. Dedicated to delivering effective automation solutions for organizations.
 
 Skills: Connectors · HTML · Windows Azure · CSS · Microsoft Power Platform · Microsoft PowerApps · Azure DevOps Server
 
